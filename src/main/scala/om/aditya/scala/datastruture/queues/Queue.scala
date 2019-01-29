@@ -1,5 +1,8 @@
 package om.aditya.scala.datastruture.queues
 
+
+
+/*this is trait for Queue *
 trait Queue[T] {
 
   def isEmpty : Boolean
